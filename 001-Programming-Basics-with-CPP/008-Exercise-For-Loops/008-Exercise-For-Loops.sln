@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex001", "Ex001\Ex001.vcxproj", "{38F7290F-C2E2-4891-A014-E6CDB14E88B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -10,5 +12,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38F7290F-C2E2-4891-A014-E6CDB14E88B3}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{38F7290F-C2E2-4891-A014-E6CDB14E88B3}.Debug|Any CPU.Build.0 = Debug|Win32
+		{38F7290F-C2E2-4891-A014-E6CDB14E88B3}.Release|Any CPU.ActiveCfg = Release|Win32
+		{38F7290F-C2E2-4891-A014-E6CDB14E88B3}.Release|Any CPU.Build.0 = Release|Win32
 	EndGlobalSection
 EndGlobal

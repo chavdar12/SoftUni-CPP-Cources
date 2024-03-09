@@ -2,6 +2,9 @@
 
 int main(int argc, char* argv[])
 {
-    std::cout << "Hello SoftUni!" << '\n';    
+    int num;
+    std::cin >> num;
+
+    printf("%2f", num * 2.54);
     return 0;
 }

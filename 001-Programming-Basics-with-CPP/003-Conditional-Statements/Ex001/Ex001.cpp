@@ -1,6 +1,12 @@
+#include <iostream>
 
-int main(int argc, char* argv[])
+int main()
 {
-    
-    return 0;
+    double grade;
+    std::cin >> grade;
+
+    if (grade >= 5.50)
+    {
+        std::cout << "Excellent!" << '\n';
+    }
 }

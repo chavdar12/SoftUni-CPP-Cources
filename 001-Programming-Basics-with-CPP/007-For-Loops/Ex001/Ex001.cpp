@@ -1,6 +1,9 @@
+#include <iostream>
 
-int main(int argc, char* argv[])
+int main()
 {
-    
-    return 0;
+    for (int i = 0; i <= 100; ++i)
+    {
+        std::cout << i << '\n';
+    }
 }

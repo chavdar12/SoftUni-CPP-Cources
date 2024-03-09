@@ -3,6 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex001", "Ex001\Ex001.vcxproj", "{CD3FDD46-13BC-4109-AC39-B9A2504BF8F4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex002", "Ex002\Ex002.vcxproj", "{0961471D-9132-458E-A6B2-7A7173080D74}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex003", "Ex003\Ex003.vcxproj", "{A5D86DB1-4614-4139-A3A7-DB2F3B602057}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex004", "Ex004\Ex004.vcxproj", "{765BB8C4-C461-4037-BA24-E0CDBFBD183D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -10,5 +18,23 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD3FDD46-13BC-4109-AC39-B9A2504BF8F4}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{CD3FDD46-13BC-4109-AC39-B9A2504BF8F4}.Debug|Any CPU.Build.0 = Debug|Win32
+		{CD3FDD46-13BC-4109-AC39-B9A2504BF8F4}.Release|Any CPU.ActiveCfg = Release|Win32
+		{CD3FDD46-13BC-4109-AC39-B9A2504BF8F4}.Release|Any CPU.Build.0 = Release|Win32
+		{0961471D-9132-458E-A6B2-7A7173080D74}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{0961471D-9132-458E-A6B2-7A7173080D74}.Debug|Any CPU.Build.0 = Debug|Win32
+		{0961471D-9132-458E-A6B2-7A7173080D74}.Release|Any CPU.ActiveCfg = Release|Win32
+		{0961471D-9132-458E-A6B2-7A7173080D74}.Release|Any CPU.Build.0 = Release|Win32
+		{A5D86DB1-4614-4139-A3A7-DB2F3B602057}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{A5D86DB1-4614-4139-A3A7-DB2F3B602057}.Debug|Any CPU.Build.0 = Debug|Win32
+		{A5D86DB1-4614-4139-A3A7-DB2F3B602057}.Release|Any CPU.ActiveCfg = Release|Win32
+		{A5D86DB1-4614-4139-A3A7-DB2F3B602057}.Release|Any CPU.Build.0 = Release|Win32
+		{765BB8C4-C461-4037-BA24-E0CDBFBD183D}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{765BB8C4-C461-4037-BA24-E0CDBFBD183D}.Debug|Any CPU.Build.0 = Debug|Win32
+		{765BB8C4-C461-4037-BA24-E0CDBFBD183D}.Release|Any CPU.ActiveCfg = Release|Win32
+		{765BB8C4-C461-4037-BA24-E0CDBFBD183D}.Release|Any CPU.Build.0 = Release|Win32
 	EndGlobalSection
 EndGlobal

@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex001", "Ex001\Ex001.vcxproj", "{A9390928-38DA-407B-823A-4BB523906D5D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex002", "Ex002\Ex002.vcxproj", "{454768B6-9CBC-43D0-946E-C640AA77BF88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex003", "Ex003\Ex003.vcxproj", "{6FB46A58-0426-45A0-9EC8-620C1AD42F10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -10,5 +16,19 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9390928-38DA-407B-823A-4BB523906D5D}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{A9390928-38DA-407B-823A-4BB523906D5D}.Debug|Any CPU.Build.0 = Debug|Win32
+		{A9390928-38DA-407B-823A-4BB523906D5D}.Release|Any CPU.ActiveCfg = Release|Win32
+		{A9390928-38DA-407B-823A-4BB523906D5D}.Release|Any CPU.Build.0 = Release|Win32
+		{454768B6-9CBC-43D0-946E-C640AA77BF88}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{454768B6-9CBC-43D0-946E-C640AA77BF88}.Debug|Any CPU.Build.0 = Debug|Win32
+		{454768B6-9CBC-43D0-946E-C640AA77BF88}.Release|Any CPU.ActiveCfg = Release|Win32
+		{454768B6-9CBC-43D0-946E-C640AA77BF88}.Release|Any CPU.Build.0 = Release|Win32
+		{6FB46A58-0426-45A0-9EC8-620C1AD42F10}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{6FB46A58-0426-45A0-9EC8-620C1AD42F10}.Debug|Any CPU.Build.0 = Debug|Win32
+		{6FB46A58-0426-45A0-9EC8-620C1AD42F10}.Release|Any CPU.ActiveCfg = Release|Win32
+		{6FB46A58-0426-45A0-9EC8-620C1AD42F10}.Release|Any CPU.Build.0 = Release|Win32
 	EndGlobalSection
 EndGlobal
